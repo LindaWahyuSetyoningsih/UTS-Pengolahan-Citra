@@ -6,6 +6,12 @@
 ![uts2](https://user-images.githubusercontent.com/56390857/117509428-6e092800-afb4-11eb-8cd9-21eaac137f3f.PNG)
 
 
+sintag :
+![Capture](https://user-images.githubusercontent.com/56390857/117509899-42d30880-afb5-11eb-950f-6a723f07277b.PNG)
+
+
+![uts3](https://user-images.githubusercontent.com/56390857/117509853-2a62ee00-afb5-11eb-951c-1861d9d16270.PNG)
+
 
 function varargout = UTS(varargin)
 % UTS MATLAB code for UTS.fig
